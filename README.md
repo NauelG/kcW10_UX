@@ -1,9 +1,7 @@
-<link rel="stylesheet" src="./css/style.css">
-
 # KeepCoding - UX
 
 <div style="width: 100%; text-align: center">
-    <img src="https://keepcoding.io/es/wp-content/uploads/sites/4/2015/05/logo-keepcoding-web.png" style="margin: 5px; height: 75px">
+    <img src="https://keepcoding.io/es/wp-content/uploads/sites/4/2015/05/logo-keepcoding-web.png" style="margin: 5px auto; height: 75px">
 </div>
 
 Como ejercicio del módulo de UX se ha preparado un **test de tareas** para la página de [Atrapalo - Teatro y danza](https://www.atrapalo.com/entradas/teatro-y-danza/).
@@ -12,14 +10,14 @@ En el test, el usuario se enfrenta a tres situaciones distintas que se podrían 
 
 ## Tabla de contenidos
 
-1. [Objetivos](##objetivos)
-2. [Test](##test)
-3. [Usuarios](##muestra-de-usuarios)
-4. [Tareas](##tareas)
-    - [Obra familiar Girona](###1---familiar-girona)
-    - [Obra pareja Barcelona](###2---pareja-barcelona)
-    - [Actuación Carlos Latre Madrid](###3---latre-madrid)
-5. [Anexos](##anexos)
+1. [Objetivos](#objetivos)
+2. [Test](#test)
+3. [Usuarios](#muestra-de-usuarios)
+4. [Tareas](#tareas)
+    - [Obra familiar Girona](#1---familiar-girona)
+    - [Obra pareja Barcelona](#2---pareja-barcelona)
+    - [Actuación Carlos Latre Madrid](#3---latre-madrid)
+5. [Anexos](#anexos)
 
 ## Objetivos
 
