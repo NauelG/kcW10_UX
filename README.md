@@ -1,6 +1,6 @@
 # KeepCoding - UX
 
-<div style="width: 100%; text-align: center !important">
+<div align="center">
     <img src="https://keepcoding.io/es/wp-content/uploads/sites/4/2015/05/logo-keepcoding-web.png" style="margin: 5px auto; height: 75px">
 </div>
 
