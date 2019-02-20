@@ -4,7 +4,7 @@
     <img src="https://keepcoding.io/es/wp-content/uploads/sites/4/2015/05/logo-keepcoding-web.png" style="margin: 5px auto; height: 75px">
 </div>
 
-Como ejercicio del módulo de UX se ha preparado un **test de tareas** para la página de [Atrapalo - Teatro y danza](https://www.atrapalo.com/entradas/teatro-y-danza/).
+Como ejercicio del módulo de UX se ha preparado un **test de tareas** para la página de [Atrapalo - Teatro y danza](https://www.atrapalo.com/entradas/teatro-y-danza/){:target="_blank"}.
 
 En el test, el usuario se enfrenta a tres situaciones distintas que se podrían dar en el uso habitual de la aplicación. El objetivo final es examinar la usabilidad de la página con usuarios reales para casos *reales*.
 
@@ -21,13 +21,13 @@ En el test, el usuario se enfrenta a tres situaciones distintas que se podrían 
 
 ## Objetivos
 
-Tal y como se menciona en la introducción, el objetivo del test es evaluar la usabilidad y la experiencia de usuario de la página [Atrápalo](https://www.atrapalo.com).
+Tal y como se menciona en la introducción, el objetivo del test es evaluar la usabilidad y la experiencia de usuario de la página [Atrápalo](https://www.atrapalo.com){:target="_blank"}.
 
 En todo momento el usuario se tiene que sentir cómodo, sabiendo que no actua como *examinado* sinó más bien como ***examinador***. Es por eso mismo que las tareas se detallan de manera muy específica, para simular situaciones muy concretas.
 
 ## Test
 
-El test ha sido presentado mediante un formulario de google forms. En el siguiente [enlace](https://goo.gl/forms/yxzfukiiS2RJkGt62) se puede encontrar el formulario enviado.
+El test ha sido presentado mediante un formulario de google forms. En el siguiente [enlace](https://goo.gl/forms/yxzfukiiS2RJkGt62){:target="_blank"} se puede encontrar el formulario enviado.
 
 Se divide en 3 secciones, una para cada tarea. A su vez, cada sección se divide en dos páginas diferentes.
 
